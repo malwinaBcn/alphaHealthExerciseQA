@@ -7,7 +7,7 @@
 ## Setup
 * Clone the repo
 
-## poin 1 -- About scenarios for the assigment and steps responsabilities
+## Exercise 1 -- About scenarios for the assigment and steps responsabilities
 The idea is to have a high level of bussiness requirements instad to define low level steps in each scenario, it could be very complicated to maintain. 
 For other way it is easy to automate.
 
