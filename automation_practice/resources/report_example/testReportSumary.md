@@ -22,5 +22,6 @@ Chrome and edge
 |  regression   |  chrome     | 12 | fail|
 |  regression   |  edge     | 12 | fail|
 
-
+## Regression Bugs Detail:
+alphaHealthExerciseQA/automation_practice/resources/regression_bugs/bugs.md
 
