@@ -49,3 +49,13 @@ the responsabilities for this step are:
 * And Click on "I agree to the terms of service" 
 * Then I click on Proceed to Checkout
 ```
+
+## Exercise 2 -- Simple Execution Report
+
+Simple execution report for @smoke and @regression test scenarios 
+[resources/report_example](resources/report_examples)
+
+## Exercise 3 and 5 -- Bugs Examples. 
+
+Simple execution report for @smoke and @regression test scenarios 
+[resources/report_example](resources/report_examples)
