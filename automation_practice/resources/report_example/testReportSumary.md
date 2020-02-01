@@ -17,8 +17,6 @@ Chrome and edge
 ````
 ## Results:
 
-## Contents
-
 |**Phase** | **task**  | **# Test**  | **Results**  |
 |---       | ---         |---         |---         |
 |  Smoke   |  chrome     | 4 | Pass|
