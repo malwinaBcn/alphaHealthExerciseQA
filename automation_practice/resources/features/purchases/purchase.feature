@@ -24,4 +24,5 @@ And I pay with my favorite payment method "<bank wire>"
 //Then Click on "I confirm my order"
 // And I Click on Confirm my order
 Then Order Confirmation Should be present
+And my Cart is empty
 
