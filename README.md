@@ -56,7 +56,7 @@ the responsabilities for this step are:
 ## Exercise 2 -- Simple Execution Report
 
 Simple execution report for @smoke and @regression test scenarios 
-[alphaHealthExerciseQA/automation_practice/resources/report_example/](alphaHealthExerciseQA/automation_practice/resources/report_example/)
+[/automation_practice/resources/report_example/](/automation_practice/resources/report_example/)
 
 ## Exercise 3 and 5 -- Bugs Examples. 
 
