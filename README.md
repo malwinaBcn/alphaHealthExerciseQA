@@ -24,24 +24,30 @@ Then I can create a new account
 And I shoud be reditected to My account Page
 ```
 ### Responsabilities of each Step are:
+```
 For Given I am not a registered user 
-*** ensure that the user is not on the database (does not exist)
+* ensure that the user is not on the database (does not exist)
 For “I am on Authentication page”
-*** click on "sign in" icon
-*** ensure that all the fields on authentication page are present
+* click on "sign in" icon
+* ensure that all the fields on authentication page are present
 For “When I enter my email address to create an account”
-** enter the email and clik on create account button
-** ensure that you are redirected to create a new account page
+* enter the email and clik on create account button
+* ensure that you are redirected to create a new account page
 for “Then I can create a new account”  positive step to ensure that we will create a new account
-*** enter all the required fileds to create an account (first_name, last_Name, address... )
-*** Click on Register  
+* enter all the required fileds to create an account (first_name, last_Name, address... )
+* Click on Register  
+```
+
 
 ### other example in case of purchase feature
+
+```
 For "When I follow all the steps to proceed with my checkout" 
 the responsabilities for this step are: 
-** I click on Proceed to Checkout
-** Then Delivered Address and Invoice address are displayed 
-** Then I click on Proceed to Checkout
-** Then Choose a shipping option is displayed
-** And Click on "I agree to the terms of service" 
-** Then I click on Proceed to Checkout
+* I click on Proceed to Checkout
+* Then Delivered Address and Invoice address are displayed 
+* Then I click on Proceed to Checkout
+* Then Choose a shipping option is displayed
+* And Click on "I agree to the terms of service" 
+* Then I click on Proceed to Checkout
+```
