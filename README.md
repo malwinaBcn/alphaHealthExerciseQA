@@ -1,6 +1,7 @@
 # alphaHealthExerciseQA 
 
 ## Requirements
+Just to ensure that you can open a cucumber feature file: (*.feature)
 * visual studio Code
 * Make sure that you have intalled the cucumber plugin
 
