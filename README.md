@@ -9,7 +9,7 @@
 
 ## Exercise 1 -- About scenarios for the assigment and steps responsabilities
 
-[resources/features](resources/features)
+[/automation_practice/resources/features/](/automation_practice/resources/features/)
 
 The idea is to have a high level of bussiness requirements instad to define low level steps in each scenario, it could be very complicated to maintain. 
 For other way it is easy to automate.
@@ -56,9 +56,9 @@ the responsabilities for this step are:
 ## Exercise 2 -- Simple Execution Report
 
 Simple execution report for @smoke and @regression test scenarios 
-[resources/report_example](resources/report_examples)
+[alphaHealthExerciseQA/automation_practice/resources/report_example/](alphaHealthExerciseQA/automation_practice/resources/report_example/)
 
 ## Exercise 3 and 5 -- Bugs Examples. 
 
 bugs report examples for exercises 3 and 5
-[resources/regression_bugs/](resources/regression_bugs)
+[/automation_practice/resources/regression_bugs/](/automation_practice/resources/regression_bugs/)
