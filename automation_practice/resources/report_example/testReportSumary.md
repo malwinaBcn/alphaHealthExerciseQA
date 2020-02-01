@@ -19,11 +19,12 @@ Chrome and edge
 
 |**Phase** | **task**  | **# Test**  | **Results**  |
 |---       | ---         |---         |---         |
-|  Smoke   |  chrome     | 4 | Pass|
-|  Smoke   |  safary     | 4 | Pass|
-|  regression   |  chrome     | 12 | fail|
-|  regression   |  edge     | 12 | fail|
+|  Smoke   |  chrome     | 2 | Pass|
+|  Smoke   |  safary     | 2 | Pass|
+|  regression   |  chrome     | 4 | fail|
+|  regression   |  edge     | 4 | fail|
 
 ## Regression Bugs Detail:
-alphaHealthExerciseQA/automation_practice/resources/regression_bugs/bugs.md
+bugs report here
+[/automation_practice/resources/regression_bugs/](/automation_practice/resources/regression_bugs/)
 
