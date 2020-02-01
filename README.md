@@ -8,6 +8,9 @@
 * Clone the repo
 
 ## Exercise 1 -- About scenarios for the assigment and steps responsabilities
+
+[resources/features](resources/features)
+
 The idea is to have a high level of bussiness requirements instad to define low level steps in each scenario, it could be very complicated to maintain. 
 For other way it is easy to automate.
 
@@ -57,5 +60,5 @@ Simple execution report for @smoke and @regression test scenarios
 
 ## Exercise 3 and 5 -- Bugs Examples. 
 
-Simple execution report for @smoke and @regression test scenarios 
-[resources/report_example](resources/report_examples)
+bugs report examples for exercises 3 and 5
+[resources/regression_bugs/](resources/regression_bugs)
