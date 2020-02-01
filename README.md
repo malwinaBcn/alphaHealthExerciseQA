@@ -9,10 +9,12 @@
 
 ## Exercise 1 -- About scenarios for the assigment and steps responsabilities
 
-[/automation_practice/resources/features/](/automation_practice/resources/features/)
-
 The idea is to have a high level of bussiness requirements instad to define low level steps in each scenario, it could be very complicated to maintain. 
 For other way it is easy to automate.
+
+You can go to the test scenarios here [/automation_practice/resources/features/](/automation_practice/resources/features/)
+
+----> Just I want to describe the idea od the responsabilties of each scenario step:
 
 ### Example of cucumber scenario: 
 ```
