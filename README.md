@@ -1,6 +1,4 @@
-# alphaHealthExerciseQA
-
-* This is an automation project based on 
+# alphaHealthExerciseQA 
 
 ## Requirements
 * visual studio Code
