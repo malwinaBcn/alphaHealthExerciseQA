@@ -21,7 +21,7 @@ Expected behaviour:
 The user should be send back to the shopping web to continue buying
 
 ````
-
+# 5 optional exercise
 ### 403 Forbiden error by filtering by categories 
 
 ```
@@ -35,6 +35,8 @@ Steps to Reproduce
 
 Actual Result
 http://automationpractice.com/modules/blocklayered/blocklayered-ajax.php?layered_category_5=5&id_category_layered=4&layered_price_slider=16_28&orderby=position&orderway=asctrue&_=1580565712738 403 (Forbidden)
+
+You don't have permission to access the requested resource. Please contact the web site owner for further assistance
 
 Expected behaviour
 error should not displayed, filter should be available 
