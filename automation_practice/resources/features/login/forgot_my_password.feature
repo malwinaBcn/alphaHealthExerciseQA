@@ -23,3 +23,4 @@ Given I have received an email with a new password
 When I click on the URL 
 Then I am redirected to the shopping web site
 And I can login with my new password
+
